@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">message</string>
+    <string name="messages_list_description">Chat messages list</string>
+    <string name="online_users_list_description">List of online users</string>
+    <string name="selected_user_description">Currently selected: %1$s</string>
+</resources>
